@@ -4,7 +4,7 @@ Contributors: crosstec
 Tags: shortcode, taxonomy, templates, theme, themes, admin, widget, layout, design, responsive, page
 Requires at least: 3.5
 Tested up to: 3.6
-Stable Tag: 1.0.0
+Stable Tag: 1.0.1
 License: GNU Version 2 or Any Later Version
 
 Kickstart Plugin for the Katapult Theme Framework. Includes a cute ready-to-run theme.
@@ -47,5 +47,3 @@ Katapult is a new free WordPress theme framework, or let's better say, a WordPre
 * First offical release!
 
 == Upgrade Notice ==
-
-- null
