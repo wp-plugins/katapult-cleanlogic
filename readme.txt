@@ -4,7 +4,7 @@ Contributors: crosstec
 Tags: shortcode, taxonomy, templates, theme, themes, admin, widget, layout, design, responsive, page
 Requires at least: 3.5
 Tested up to: 3.6
-Stable Tag: 1.0.1
+Stable Tag: 1.0.2
 License: GNU Version 2 or Any Later Version
 
 Kickstart Plugin for the Katapult Theme Framework. Includes a cute ready-to-run theme.
@@ -20,11 +20,11 @@ The Katapult Cleanlogic plugin is a project kickstarter that ships with a cute d
 * Taxonomies
 * Shortcodes
 
-See a (demo of the Katapult Cleanlogic project here)[http://crosstec.de/.sub-wptemplatedemos/]
+See a [demo of the Katapult Cleanlogic project here](http://crosstec.de/.sub-wptemplatedemos/)
 
 Katapult is a new free WordPress theme framework, or let's better say, a WordPress theme kickstarter. It contains all the usual stuff you need to create your own themes more quickly and reduces all you need for a theme to just a few files.
 
-(Katapult project and download page)[http://crosstec.de/en/wordpress/wordpress-theme-framework.html]
+[Katapult project and download page](http://crosstec.de/en/wordpress/wordpress-theme-framework.html)
 
 
 == Installation ==
